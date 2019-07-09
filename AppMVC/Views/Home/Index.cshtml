@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AppMVC.Models.TimeTable>
+
+@{
+    ViewBag.Title = "Home Page";
+    double max = 0;
+    var maxMovie="";
+    foreach(var item in Model)
+    {
+        if(item.Movie.Rating >= max)
+        {
+            max = item.Movie.Rating;
+            maxMovie = item.Movie.ImgUrl;
+        }
+    }
+    int min = 15000;
+    var minCena = "";
+    foreach (var item in Model)
+    {
+        if (item.Movie.PriceForTcket<=min)
+        {
+           min = item.Movie.PriceForTcket;
+            minCena = item.Movie.ImgUrl;
+        }
+    }
+
+}
+<div class="col-md-12">
+    <div class="jumbotron" style="text-align:center ; font-size:30px">Проекции на филмови денес</div>
+    @foreach (var item in Model)
+    {
+        if (item.Time.Date == DateTime.Today.Date)
+        {
+            <a href="@Url.Action("Index", "TimeTables")">
+                <img src="@Url.Content(item.Movie.ImgUrl)" alt="Image" width="200" height="300" />
+            </a>
+        }
+    }
+</div>
+<div class="row">
+    
+    <div class="col-md-5 panel panel-default panel-body" style="text-align:center">
+        <div class=" col-md-12">Најпопуларен филм според рејтинг</div>
+        <br />
+        <br />
+        <a href="@Url.Action("Index", "TimeTables")" >
+            <img src="@Url.Content(maxMovie)" alt="Image" width="200" height="300" />
+        </a>
+
+    </div>
+    <div class="col-md-1"></div>
+    <div class="col-md-5  panel panel-default panel-body" style="text-align:center" >
+        <div class=" col-md-12">Најефтин филм </div>
+        <br/>
+        <br/>
+        <a href="@Url.Action("Index", "TimeTables")" >
+            <img src="@Url.Content(minCena)" alt="Image" width="200" height="300" />
+        </a>
+    </div>
+
+</div>

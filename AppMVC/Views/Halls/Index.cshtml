@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AppMVC.Models.Hall>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Сите сали</h2>
+
+<p>
+    @Html.ActionLink("Креирај кова сала", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Име на сала
+        </th>
+        <th>
+            Број на места
+        </th>
+        <th>
+            Број на  слободни места
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.HallName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumOFSeats)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumOFAvailableSeats)
+        </td>
+        <td>
+            @Html.ActionLink("Едитирај", "Edit", new { id = item.HallId }) |
+            @Html.ActionLink("Детали", "Details", new { id = item.HallId }) |
+            @Html.ActionLink("Избриши", "Delete", new { id = item.HallId })
+        </td>
+    </tr>
+}
+
+</table>

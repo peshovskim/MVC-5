@@ -1,0 +1,48 @@
+﻿@model AppMVC.Models.Reservation
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Избришај</h2>
+
+<h3>Дали сте сигурни дека сакате да ја избришате оваа резервација?</h3>
+<div>
+    <h4>Резервација</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Број на проекција
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimeTableId)
+        </dd>
+
+        <dt>
+            Број на карти
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumOfTickets)
+        </dd>
+
+        <dt>
+           Корисник
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApplicatinUserId)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Избришај" class="btn btn-default" /> |
+            @Html.ActionLink("Назад кон листата", "Index")
+        </div>
+    }
+</div>

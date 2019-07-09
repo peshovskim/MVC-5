@@ -1,0 +1,47 @@
+﻿@model AppMVC.Models.TimeTable
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Избриши термин</h2>
+
+<h3>Дали сте сигурни дека сакате да го избришете овој термин?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Hall.HallName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hall.HallName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movie.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Избриши" class="btn btn-danger" /> |
+            @Html.ActionLink("Назад кон листата", "Index")
+        </div>
+    }
+</div>

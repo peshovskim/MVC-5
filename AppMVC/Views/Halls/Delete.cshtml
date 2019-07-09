@@ -1,0 +1,31 @@
+﻿@model AppMVC.Models.Hall
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<h3>Дали сте сигурни дека сакате да ја избришете оваа сала?</h3>
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+       
+
+        <dd>
+            @Html.DisplayFor(model => model.HallName)
+        </dd>
+
+    
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <input type="submit" value="Избриши" class="btn btn-danger" /> |
+        @Html.ActionLink("Назад кон листата на сали ", "Index")
+    </div>
+    }
+</div>

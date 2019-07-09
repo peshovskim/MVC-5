@@ -1,0 +1,100 @@
+﻿@model IEnumerable<AppMVC.Models.TimeTable>
+
+@{
+    ViewBag.Title = "";
+    var DistinctItems = Model.GroupBy(x => x.MovieId).Select(y => y.First());
+
+
+}
+
+<h2>Сите Филмови</h2>
+@using (Html.BeginForm())
+{
+    <div class="row">
+
+        <div style="position: relative" class="col-md-2">
+            <input placeholder="Филтрирај по датум" class="form-control datepicker1 " id="SearchString"  name="SearchString" />
+        </div>
+        <div class="col-md-2">
+            <span class=" form-group">
+                <input value="Филтрирај" class="btn btn-default" id="filter" type="submit" />
+            </span>
+        </div>
+    </div>
+    <div>
+
+    </div>
+}
+@if (User.IsInRole("Editor") || User.IsInRole("Admin"))
+{
+<p>
+    @Html.ActionLink("Креирај ", "Create")
+</p>
+}
+<table class="table" id="lista">
+    @foreach (var item in DistinctItems)
+    {
+        <tr>
+            <td>
+                <img src="@Url.Content(item.Movie.ImgUrl)" alt="Image" width="200" height="300" />
+            </td>
+            <td>
+                <h3> @Html.DisplayFor(modelItem => item.Movie.Title)</h3>
+                @foreach (var item2 in Model)
+                {
+                    if (item2.Time.Date >= DateTime.Today.Date)
+                    {
+                        if (item2.Movie.MovieId == item.Movie.MovieId)
+                        {
+
+                        <div class="row">
+                            <div class="col-md-3 well">
+                                @Html.DisplayFor(modelItem => item2.Hall.HallName)<br />
+                                Време @Html.DisplayFor(modelItem => item2.Time.TimeOfDay.Hours): @Html.DisplayFor(modelItem => item2.Time.TimeOfDay.Minutes) <br />
+                                Датум   @Html.DisplayFor(modelItem => item2.Time.DayOfWeek)    @Html.DisplayFor(modelItem => item2.Time.Day) /  @Html.DisplayFor(modelItem => item2.Time.Month)
+                            </div>
+                            <div class="col-md-1">
+                                @if (item2.Hall.NumOFAvailableSeats == 0)
+                                {
+                                    <span class="text-danger">Пополнето</span>
+                                }
+                                else
+                                {
+                                    <br />
+                                    <div class=" form-group col-md-offset-2 col-md-10">
+                                        <button  class="btn btn-default" value="Резервирај" >
+                                            @Html.ActionLink( "Резервирај","Create" ,"Reservations", new { id = item2.TimeId} , null) 
+                          
+                                        </button>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        }
+                    }
+                }
+            </td>
+
+        </tr>
+    }
+
+</table>
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-datepicker.css" rel="stylesheet" />
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script type="text/javascript" src="~/Scripts/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="~/Scripts/moment.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap-datetimepicker.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap-datepicker.min.js"></script>
+    <script>
+        $(".datepicker1").datepicker();
+    </script>
+    
+  
+}

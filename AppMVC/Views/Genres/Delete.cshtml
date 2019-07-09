@@ -1,0 +1,28 @@
+﻿@model AppMVC.Models.Genre
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<h3>Дали сте сигурни дека сакате да го избришете овој жанр?</h3>
+<div>
+   
+   
+    <dl class="dl-horizontal">
+   
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="ИЗбриши" class="btn btn-danger" /> |
+            @Html.ActionLink("Назад кон листата жанрови", "Index")
+        </div>
+    }
+</div>

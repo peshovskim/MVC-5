@@ -1,0 +1,24 @@
+﻿@model AppMVC.Models.Genre
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Жанр</h4>
+    <hr />
+    <dl class="dl-horizontal">
+   
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Едитирај", "Edit", new { id = Model.GenreId }) |
+    @Html.ActionLink("Назад кон листата жанрови", "Index")
+</p>

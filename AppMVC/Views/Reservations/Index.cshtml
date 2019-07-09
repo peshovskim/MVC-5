@@ -1,0 +1,48 @@
+﻿@model IEnumerable<AppMVC.Models.Reservation>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<!--
+<p>
+    Html.ActionLink("Креирај нова резервација", "Create")
+
+</p>-->
+<br />
+<table class="table">
+    <tr>
+        <th>
+            Број на проекција
+        </th>
+        <th>
+            Број на карти
+        </th>
+        <th>
+            Корисник
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TimeTableId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumOfTickets)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplicatinUserId)
+            </td>
+            <td>
+                @Html.ActionLink("Едитирај", "Edit", new { id = item.ReservationId }) |
+                @Html.ActionLink("Детали", "Details", new { id = item.ReservationId }) |
+                @Html.ActionLink("Избриши", "Delete", new { id = item.ReservationId })
+            </td>
+        </tr>
+    }
+
+</table>

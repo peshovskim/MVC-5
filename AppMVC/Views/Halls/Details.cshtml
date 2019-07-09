@@ -1,0 +1,42 @@
+﻿@model AppMVC.Models.Hall
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Детали</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            Име на сала
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HallName)
+        </dd>
+
+        <dt>
+            Вкупен број на места
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumOFSeats)
+        </dd>
+
+        <dt>
+            Вкупен број на слободни места
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumOFAvailableSeats)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Едиритај", "Edit", new { id = Model.HallId }) |
+    @Html.ActionLink("Назад кон листата на сали ", "Index")
+</p>

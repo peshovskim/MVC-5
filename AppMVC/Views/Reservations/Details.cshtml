@@ -1,0 +1,42 @@
+﻿@model AppMVC.Models.Reservation
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Детали</h2>
+
+<div>
+    <h4>Резервација</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Број на проекција
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimeTableId)
+        </dd>
+
+        <dt>
+           Број на карти
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumOfTickets)
+        </dd>
+
+        <dt>
+           Корисник
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApplicatinUserId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Едитирај", "Edit", new { id = Model.ReservationId }) |
+    @Html.ActionLink("Назад кон листата", "Index")
+</p>

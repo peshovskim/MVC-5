@@ -1,0 +1,52 @@
+﻿@model AppMVC.Models.Reservation
+
+@{
+    ViewBag.Title = "Create";
+     var indeks= ViewBag.id;
+}
+
+<h2>Креирај</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Резервација</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="col-md-2">Избери Проекција</div> 
+              <div class="col-md-10">
+            @Html.EditorFor(model => model.TimeTableId, new { htmlAttributes = new { @class = "form-control", @Value = @indeks } }) 
+            @Html.ValidationMessageFor(model => model.TimeTableId, "", new { @class = "text-danger" })
+        </div>
+                
+        </div>
+
+        <div class="form-group">
+               <div class="col-md-2">Број на карти</div>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NumOfTickets, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NumOfTickets, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Креирај" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Назад кон листата", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

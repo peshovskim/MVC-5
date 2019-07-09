@@ -1,0 +1,37 @@
+﻿@model AppMVC.Models.Movie
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<h3>Дали сте сигурни дека сакате да го избришете овој филм?</h3>
+<div>
+    <h4>Филм</h4>
+    <hr />
+    <dl class="dl-horizontal">
+      
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.Duration) минути
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Избриши" class="btn btn-danger" /> |
+            @Html.ActionLink("Назад кон листата на филмови", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,670 @@
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\ApplicationInsights.config
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\EntityFramework.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Owin.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\EntityFramework.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.initial.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.init2.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.addfullnameandage.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangeage.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangename.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.chanegenre.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.errorgenre.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.numofavailableseats.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.GenerateResource.cache
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.dateformat.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.ForeignKeyUser.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation2.resources
+C:\Users\Gabriela Gjorgievska\Desktop\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation3.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\ApplicationInsights.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\EntityFramework.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Owin.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\EntityFramework.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.initial.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.init2.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.addfullnameandage.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangeage.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangename.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.chanegenre.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.errorgenre.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.numofavailableseats.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.dateformat.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.ForeignKeyUser.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation2.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation3.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.GenerateResource.cache
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\.NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\ApplicationInsights.config
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\EntityFramework.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Owin.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\EntityFramework.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.initial.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.init2.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.addfullnameandage.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangeage.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangename.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.chanegenre.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.errorgenre.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.numofavailableseats.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.dateformat.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.ForeignKeyUser.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation2.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation3.resources
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.GenerateResource.cache
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\devilinside\Documents\GitHub1\NET-MVC\AppMVC\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\ApplicationInsights.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\EntityFramework.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Owin.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\EntityFramework.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.initial.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.init2.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.addfullnameandage.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangeage.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangename.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.chanegenre.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.errorgenre.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.numofavailableseats.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.dateformat.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.ForeignKeyUser.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation2.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation3.resources
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.GenerateResource.cache
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\Gabriela Gjorgievska\Documents\GitHub\IT_PROJECT\AppMVC\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\ApplicationInsights.config
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\EntityFramework.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Owin.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\EntityFramework.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.initial.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.init2.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.addfullnameandage.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangeage.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.rangename.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.chanegenre.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.errorgenre.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.numofavailableseats.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.dateformat.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.ForeignKeyUser.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation2.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.Migrations.identitireservation3.resources
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.GenerateResource.cache
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\Peshovski\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\IT_PROJECT-master\AppMVC\AppMVC\obj\Debug\AppMVC.pdb

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<AppMVC.Models.Genre>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Сите жанрови</h2>
+
+<p>
+    @Html.ActionLink("Креирај нов жанр", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Жанрови
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Едитирај", "Edit", new { id=item.GenreId }) |
+            @Html.ActionLink("Детали", "Details", new { id=item.GenreId }) |
+            @Html.ActionLink("Избриши", "Delete", new { id=item.GenreId })
+        </td>
+    </tr>
+}
+
+</table>
